@@ -43,7 +43,7 @@ Admin Panel -> Agents -> Teams
 - Level I Support
 - Level II Support
 
-## Allow anyone to create tickets
+## Allow Anyone To Create Tickets
 
 - Admin Panel -> Settings -> User Settings
 - Registration Required: Require registration and login to create tickets 
